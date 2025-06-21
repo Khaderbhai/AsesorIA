@@ -1,0 +1,14 @@
+#Acá ponemos lo que queremos que ignore al subirlo a github
+
+#Ignorar todos los archivos con extensiones .txt
+*.txt
+#Ignorar la carpeta streamlit
+.streamlit
+#Ignorar el entorno virtual 
+.env
+.venv
+
+
+#Esto hace que solo suba el gitignore y el bot.py
+
+
